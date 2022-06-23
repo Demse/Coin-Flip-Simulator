@@ -6,7 +6,7 @@ Tails = 0
 
 
 
-trials = int(input('How many number of flips '))
+trials = int(input('How many number of flips: '))
 
 
 while count < trials:
